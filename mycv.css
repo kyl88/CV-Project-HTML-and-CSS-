@@ -1,0 +1,119 @@
+
+h1 {
+
+font-family:Georgia,Times,Serif;
+
+font-size:250%;
+
+text-shadow: 2px 2px 3px #666666;
+
+padding-bottom:10px;
+
+font-style:italic;
+
+text-transform: uppercase;
+
+text-decoration:underline;
+
+line-height:1.4em;
+
+text-align:Center;
+
+border:2px solid Silver;
+
+
+
+
+}
+
+h3 {
+
+background-color: powderblue;
+
+
+font-family:Georgia,Times,Serif;
+
+color:black;
+
+text-shadow: 
+
+border-style: solid;
+
+opacity: 1.0;
+
+}
+
+p1 {
+
+
+border:
+background-color:
+
+
+text-align:center;
+border-style: 
+
+
+}
+
+
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+ul.business {
+
+list-style-position: inside;
+font-color:blue;
+
+
+
+}
+
+
+
+
+ul {
+  background: white;
+
+  padding: 20px;
+}
+
+
+
+
+
+b1 { 
+
+color:purple;
+
+
+
+
+
+
+}
+
+b2 {
+
+background-color:dark cyan;
+
+
+}
+
+h4 {
+
+background-color:dark cyan;
+
+}
+
+div {
+  background-image: url('white wallpaper.jpg');
+}
+
